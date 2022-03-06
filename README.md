@@ -1,5 +1,5 @@
-# Super xBR algorithm with python
-Implementation of super xbr algorithm by Hyllian with python
+# Super xBR algorithm
+Implementation of super xbr algorithm
 
 ## Usage
 ```
